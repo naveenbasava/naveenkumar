@@ -1,6 +1,6 @@
 export const SHEET_IDS = {
   basicInfo: "1nFYXIts878Su0KgUmQjXTDedjHilToASZ0WQs14eMSw",
-  qualifications: "1kq9TfO8WIFhwN9C66GnWrczi7qgny1VnSH21ERUO-Ck",
+  qualifications: "1cc2bZZkNPSn0jL0FWRv5pSTtRpcJD3YLM-2tkD_mWq8",
   teaching: "13xcDqjb3H3pi7YxL1xagcitBSKM819YVQygLxA2imao",
   courses: "1Io_jlOW2DCYUxWAx-ID9DMEKj6spVxC39qHGE9Yr0uI",
   institutional: "1KxIj7Q56KZSU3Wt3f-jCQta9We5PjLaQRcDToFOUnOw",
